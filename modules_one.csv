@@ -1,0 +1,13 @@
+MODULOS NECESARIOS PARA PYMES,
+,
+MODULE,COMPANY
+company,core
+country,core
+currency,core
+nodux_party_one,nodux
+nodux_product_one,nodux
+nodux_purchase_one,nodux
+nodux_sale_one,nodux
+nodux_stock_one,nodux
+party,core
+product,core
